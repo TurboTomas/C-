@@ -1,1 +1,2 @@
-# C-
+# C++
+Project for study.
